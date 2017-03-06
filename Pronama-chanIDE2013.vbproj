@@ -140,6 +140,10 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="andkun.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
     <Content Include="ja-JP\extension.vsixlangpack">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
