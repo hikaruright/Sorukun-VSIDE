@@ -1,7 +1,7 @@
-プロ生ちゃん（Pronama-chan） IDE for Visual Studio 2013
+そるくん IDE for Visual Studio 2013 Powered by プロ生ちゃん（Pronama-chan） IDE for Visual Studio 2013
 ===================
 
-See https://visualstudiogallery.msdn.microsoft.com/d4aa9c26-c122-45c9-a4bb-6e695146ea5b
+プロ生ちゃん（Pronama-chan） IDE for Visual Studio 2013 をペースに改変をおこなったものです。
 
 License
 ======
